@@ -1,0 +1,15 @@
+body {
+	margin: 0 28px;
+}
+#nombre {
+	color: #214374;
+}
+.footer-ul {
+	list-style: none;
+}
+.footer-bull {
+	font-weight: bold;
+	width: 30px;
+	float: left;
+	text-align: center;
+}
